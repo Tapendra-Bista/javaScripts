@@ -1,0 +1,1 @@
+// Note: Similar to c++ ,c,dart, kt and etc
